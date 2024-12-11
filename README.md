@@ -1,6 +1,6 @@
 
-# Mouse Flight v1.3
-This project is an example of mouse controls for aircraft based on the excellent system used by Gaijin's War Thunder. It is in my opinion the single best and most robust system for controlling aircraft, especially those with more realistic physics.
+# Mouse Flight v1.3  but osaka version
+This project is an WORK IN PROGRESS of mouse controls for aircraft based on the excellent system used by Gaijin's War Thunder. It is in my opinion the single best and most robust system for controlling aircraft, especially those with more realistic physics.
 
 ![screenshot](Screenshots/flight.gif)
 
